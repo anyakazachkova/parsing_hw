@@ -1,2 +1,2 @@
 # parsing_hw
-Python parsing by requestandselenium
+Python parsing by request and selenium.
